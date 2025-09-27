@@ -28,7 +28,7 @@ To view and run this project by using this link :
 
 
 ## ✍️ Author
-* **[Vijay Shankar/GitHub Username]** - [Link to your GitHub Profile]
+* **[Vijay Shankar/vijayshankar-26]** - [https://github.com/vijayshankar-26]
 
 ---
 **Note:** This is a static, front-end only project. It does not include any server-side logic or database integration.
